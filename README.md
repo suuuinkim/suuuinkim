@@ -6,7 +6,6 @@
 
 
 ## ✨ **Tech Stack** ✨
-<br><br>
 <img src="https://img.shields.io/badge/Java-FBBA00?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-00A98F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-40AEF0?style=flat-square&logo=Oracle&logoColor=white"/></a>
