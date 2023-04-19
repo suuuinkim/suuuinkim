@@ -22,7 +22,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuuinkim&theme=material-palenight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuuinkim&theme=flag-india&show_icons=true)
 
 </div>
 <!--
