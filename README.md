@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuuuinkim&count_bg=%237FBDFF&title_bg=%23FFD2E5&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align = "center">
   
 ## Hello, I'm SuInKim 👋
@@ -25,6 +23,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuuinkim&theme=flag-india&show_icons=true)
 
 </div>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuuuinkim&count_bg=%237FBDFF&title_bg=%23FFD2E5&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **suuuinkim/suuuinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
