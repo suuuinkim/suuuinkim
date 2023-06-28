@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/jQuery-9999FF?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suuuinkim&theme=flag-india&show_icons=true)
-
+-->
 </div>
 
 
