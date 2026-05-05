@@ -1,21 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F0FFDF&height=200&section=header&text=Dev%20Log&fontColor=FFD8DF&fontSize=60&fontAlign=50" />
-</div>
+  <h1 align="center">Hi there 🍋 I'm Suin</h1>
 
----
+  <p align="center">
+    <a href="https://booming-louse-de6.notion.site/30d1a8b0de3580038aaee2c00d2a1e83?v=30d1a8b0de3580f2838f000c1f00cd66">📝 Blog</a> •
+    <a href="mailto:ksuinkk@gmail.com">📧 Email</a>
+  </p>
 
-## 🛠 My Crafting Tools
+  ---
 
-### 🏗️ Back-end & Database
-* <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-* <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-* <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-* <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-* <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white">
-* <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-* <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  ### 🛠 Tech Stack
 
-### 🎨 Front-end
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-* <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-* <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,docker,mysql,git&theme=dark)](https://skillicons.dev)
+
+  ---
+
+  ### 📊 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=suuuinkim&show_icons=true&theme=tokyonight" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuuinkim&layout=compact&theme=tokyonight" height="160"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=suuuinkim&theme=tokyonight"/>
+  </p>
+
+  ---
+
+  ### 🏷 Badges
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+  ---
