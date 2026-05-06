@@ -9,7 +9,7 @@
 
   ### 🛠 Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,docker,mysql,git&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,python,spring,js,react,docker,mysql,git&theme=dark)](https://skillicons.dev)
 
   ---
 
